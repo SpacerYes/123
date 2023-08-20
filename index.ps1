@@ -141,6 +141,3 @@ Function Add-EnvPath {
 Add-EnvExtension '.PY'
 Add-EnvExtension '.PYW'
 Add-EnvPath 'C:\Python36\'
-
-# Install a library using Pip
-python -m pip install numpy
